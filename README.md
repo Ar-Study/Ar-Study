@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 💬 Ask me about **MERN, CI and Android**
+- 💬 Ask me about **Web and Android Development **
 
 - 📫 How to reach me **muhammadfarrelpradipta@gmail.com**
 
